@@ -1,4 +1,4 @@
-# GVA: Guided Visual Attention Approach for Automatic Image Caption Generation
+# [GVA: Guided Visual Attention Approach for Automatic Image Caption Generation](https://link.springer.com/article/10.1007/s00530-023-01249-w)
 ## Requirements
 
 - Python 2.7
