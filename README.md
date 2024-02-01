@@ -36,8 +36,18 @@ $ CUDA_VISIBLE_DEVICES=0 python eval.py  --num_images -1 --language_eval 1 --bat
 ## Reference
 
 If you find this repo helpful, please consider citing:
+@article{hossen2024gva,
+  title={GVA: guided visual attention approach for automatic image caption generation},
+  author={Hossen, Md Bipul and Ye, Zhongfu and Abdussalam, Amr and Hossain, Md Imran},
+  journal={Multimedia Systems},
+  volume={30},
+  number={1},
+  pages={50},
+  year={2024},
+  publisher={Springer}
+}
 
-
+Hossen, M.B., Ye, Z., Abdussalam, A. et al. GVA: guided visual attention approach for automatic image caption generation. Multimedia Systems 30, 50 (2024). https://doi.org/10.1007/s00530-023-01249-w
 
 ## Acknowledgements
 
